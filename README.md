@@ -1,4 +1,5 @@
-# Ce projet est une implémentation d'un modèle joint pour Slot filling et Intent detection.<br>
+# Modèle joint Slot filling & Intent detection.
+Ce projet est une implémentation d'un modèle joint pour Slot filling et Intent detection.<br>
 Pour lancer l'étape entrainement executer la commande suivante :<br>
 <b>python -W ignore train.py --m <num de modèle></b><br>
 Pour lancer l'étape test executer la commande suivante :<br>
