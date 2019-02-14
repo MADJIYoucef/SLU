@@ -14,4 +14,4 @@ avec num modèle un nombre entre 1 et 4
   <li> 4 : Conv encodeur-décodeur</li>
 </ul>
 
-Pour plus de détails voir le note book : "spoken_language_understanding.ipynb" ou il ya une implémentation des deux taches séparements
+Pour plus de détails voir le note book : "spoken_language_understanding.ipynb" ou il ya une implémentation des deux taches séparements.
